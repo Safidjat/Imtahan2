@@ -1,0 +1,20 @@
+@font-face{
+    font-family: "San Francisco Pro Display";
+    src: url('../fonts/SanFrancisco/SF-Pro-Display-Regular.otf');
+}
+@font-face {
+    font-family: "San Francisco Pro Display Light";
+    src: url('../fonts/SanFrancisco/SF-Pro-Display-Light.otf');
+}
+@font-face {
+    font-family: "SF Pro Display";
+    src: url('../fonts/SanFrancisco/SFProDisplay-Regular.woff2');
+}
+@font-face {
+    font-family: "SF Pro Display Light";
+    src: url('../fonts/SanFrancisco/SFProDisplay-Light.woff2');
+}
+@font-face{
+    font-family: "SF-Pro-Display-Bold";
+    src: url('../fonts/SanFrancisco/SFProDisplay-Bold.woff2');
+}
