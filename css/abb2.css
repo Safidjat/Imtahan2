@@ -741,6 +741,16 @@ header{
         font-family: "SF-Pro-Display-Bold";
     }
 }
+@media only screen and (max-width: 550px){
+    #finHover{
+        left: 1%;
+        img{
+            width: 60px;
+            height: 50px;
+        }
+    }
+}
+
 #finHover{
     display: none;
 }
