@@ -306,6 +306,7 @@ header{
 
 
 #cont{
+    
     min-height: 75px;
     /* padding: 0 15px; */
     display: flex;
@@ -371,6 +372,7 @@ header{
     font-size: 15px;
     letter-spacing: 0.8px;
 }
+
 #sidebar{
     position: fixed;
     top: 125px;
@@ -394,6 +396,7 @@ header{
     display: flex;
     justify-content: space-between;
     cursor: pointer;
+    align-items: center;
 }
 
 .umumi li a{
