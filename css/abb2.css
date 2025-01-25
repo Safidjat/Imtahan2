@@ -1323,6 +1323,9 @@ header{
         /* left: 225px; */
         left: 40%;
     }
+    #size{
+        padding: 0 10px;
+    }
 }
 @media only screen and (min-width: 990px){
     #fl{
