@@ -1029,78 +1029,7 @@ header{
     }
 }
 /*-----------Xidmetler-------------------------------------*/
-/* .xid{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #fff;
-    padding: 32px 24px;
-    border-radius: 12px;
-    text-decoration: none;
-    img{
-        width: 132px;
-        height: 132px;
-    }
-    h2{
-        color: #262626;
-        font-size: 23px;
-        font-weight: 600;
-        max-width: 150px;
-        text-align: center;
-        margin-bottom: 0;
-        margin-top: 40px;
-    }
-} */
-/* #xidmetler{
-    background-color: #f5f5f5;
-    padding: 90px 0;
-} */
-/* #vnutri{
-    width: 70%;
-    margin: auto;
-}
-#many{
-    margin-top: 30px;
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-}
-#vnutri h1{
-    font-weight: 700;
-    color: #262626;
-    font-size: 28px;
-} */
-/* @media only screen and (min-width: 770px){
-    #many{
-        margin-top: 30px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        gap: 20px;
-    }
-    #vnutri{
-        
-        margin: auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    
-} */
-/* @media only screen and (min-width: 768px) and (max-width:1190px){
-    #many{
-        gap: 10px;
-    }
-}
-@media only screen and (min-width: 1300px){
-    .xid{
-        padding: 40px 80px;
-    }
-    #many{
-        gap: 30px;
-    }
-} */
+
 
 #xidmetler{
     background-color: #f5f5f5;
