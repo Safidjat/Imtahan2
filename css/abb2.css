@@ -614,9 +614,25 @@ header{
 
 /*----------------Size ozel kredit-------------*/
 #izo img{
-    width: 510px;
+    max-width: 510px;
     height: 340px;
 }
+@media only screen and (max-width: 533px){
+    #izo img{
+        width: 300px;
+    }
+}
+@media only screen and (max-width: 320px){
+    #izo img{
+        width: 100px;
+        height: 100px;
+
+    }
+    #teklif h1{
+        font-size: 16px;
+    }
+}
+
 #size{
     background-color: #f9f9f9;
     padding: 0 150px;
@@ -1288,6 +1304,12 @@ header{
 #gel{
     display: none;
 }
+@media only screen and (min-width: 990px) and (max-width:1168px){
+    #kon{
+        width: 95%;
+        margin: auto;
+    }
+}
 @media only screen and (max-width: 420px){
     #rub:checked ~ .eur{
         display: block;
@@ -1381,7 +1403,7 @@ header{
         font-weight: 500;
         font-size: 17px;
         color: #262626;
-        
+    
     }
     h4{
         font-size: 12px;
