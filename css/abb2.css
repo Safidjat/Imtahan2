@@ -1432,6 +1432,12 @@ header{
     }
 }
 /*-----------------------------Reqemsal mehsullar---------------------*/
+@media only screen and (min-width: 760px) and (max-width:795px){
+    .shek img{
+        width: 100px;
+    }
+}
+
 #reqemsal{
     background-color: #fff;
     padding: 70px 0;
@@ -1450,8 +1456,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+    /* align-self: flex-end; */
     img{
-        width: 202.05px;
+        max-width: 202.05px;
         height: 180px;
     }
 }
